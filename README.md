@@ -15,8 +15,9 @@ I am currently attending college (expected completion in 2026).
 <br>
 
 <h2 class="button-title" > My Site 💻</h2>
-<a href="https://fernandoxandre.github.io/Portifolio/">
+<a href="https://fernandoxandre.github.io/Portifolio/" target='_blank'>
         <img 
+            target='_blank'
             alt="Site meu portifolio" 
             title="Portifolio" 
             src="https://custom-icon-badges.demolab.com/badge/-Portifolio-f00?style=for-the-badge&logoColor=white&logo=repo"
