@@ -15,7 +15,7 @@ I am currently attending college (expected completion in 2026).
 <br>
 
 <h2 class="button-title" > My Site 💻</h2>
-<a href="fernandoxandre.github.io/Portifolio/">
+<a href="https://fernandoxandre.github.io/Portifolio/">
         <img 
             alt="Site meu portifolio" 
             title="Portifolio" 
